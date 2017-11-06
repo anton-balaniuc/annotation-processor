@@ -16,7 +16,7 @@ This was a (failed) attempt to reproduce the error reported here:
 ### Running
 
 ```
-% sbt clean code0/compile code1/compile
+% sbt clean code0/compile code/compile
 ...
 [info] Compiling 1 Java source to /Users/jason/code/annotation-processor/code/target/scala-2.11/classes...
 [warn] Round 1:
